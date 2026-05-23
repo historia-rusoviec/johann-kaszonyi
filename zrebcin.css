@@ -1,4 +1,5 @@
   :root {  --prirodnaC: #b9cb99;}
+  :root {  --zvyraznena: #b9ee99;}
   :root {  --popisC: #b0ce9a;}
   :root {  --slabsiC: #939d82;}
   :root {  --autorC: #82db9e;}
@@ -87,6 +88,10 @@ a, a:link, a:visited, a:hover{
 .clanok{
  color:var(--prirodnaC);
 }
+.zvyraznena{
+ color:var(--zvyraznena);
+}
+
 .zdroj{
   color: var(--slabsiC); 
   font-style: italic;
